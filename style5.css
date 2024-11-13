@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    background: linear-gradient( 45deg,red,white,pink);
+    color: rgb(212, 47, 107);
+}
+h2{
+    text-align: center;
+    color: rgb(33, 133, 26);
+}
+td{
+    padding-left: 20px;
+}
